@@ -234,8 +234,7 @@ button.disabled:hover {
 'use strict';
 
 var items = [
-    // Define your items here
-];
+{id: 'Porkchop', name: 'Victoria Porkchop Parker'}, {id: 'Tammie', name: 'Tammie Brown'}, {id: 'Akashia', name: 'Akashia'}, {id: 'Jade', name: 'Jade'}, {id: 'Ongina', name: 'Ongina'}, {id: 'Shannel', name: 'Shannel'}, {id: 'Rebecca', name: 'Rebecca Glasscock'}, {id: 'Nina', name: 'Nina Flowers'} {id: 'Bebe', name: 'Bebe Zahara Benet'}];
 
 var myPicker = new picker.Picker({
     items: items
